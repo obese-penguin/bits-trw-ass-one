@@ -1,0 +1,39 @@
+\documentclass[12pt, twoside]{report}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[a4paper, total={6in, 10in}]{geometry}
+\graphicspath{ {images} }
+\usepackage{datetime, xcolor, caption, subcaption, multicol}
+\usepackage{amsthm, thmtools, amsfonts, mathtools}
+
+\usepackage{lipsum} % for generating dummy text
+
+
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+\title{}
+\author{Riddhiman}
+\date{\monthyeardate\today}
+
+\begin{document}
+
+\input{titlepage}
+
+% input contributions page
+
+\begin{multicols}{2}
+ \section*{Interest}
+\lipsum[4-5] 
+
+\section*{Research focus area}
+\lipsum[6-7] 
+
+\section*{Research questions}
+\lipsum[8-9] 
+
+\section*{Significance of research problem}%
+\lipsum[10-11]
+\end{multicols}
+
+
+\end{document}
+
