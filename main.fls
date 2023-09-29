@@ -892,6 +892,8 @@ INPUT ./images/bits-logo-color.png
 INPUT ./images/bits-logo-color.png
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT ./images/bits-logo-color.png
 INPUT images/bits-logo-color.png
 INPUT ./images/bits-logo-color.png
@@ -899,7 +901,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT ./images/bits-logo-color.png
 INPUT images/bits-logo-color.png
 INPUT ./images/bits-logo-color.png
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./main.bbl
 INPUT main.bbl
 INPUT ./main.bbl
@@ -907,7 +908,6 @@ INPUT main.bbl
 INPUT ./images/bits-logo-color.png
 INPUT images/bits-logo-color.png
 INPUT ./images/bits-logo-color.png
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
