@@ -1,12 +1,13 @@
 \documentclass[12pt, twoside]{report}
 \usepackage{graphicx} % Required for inserting images
-\usepackage[a4paper, total={6in, 10in}]{geometry}
+\usepackage[a4paper, total={6in, 9in}]{geometry}
 \graphicspath{ {images} }
 \usepackage{datetime, xcolor, caption, subcaption, multicol}
-\usepackage{amsthm, thmtools, amsfonts, mathtools}
+\usepackage{amsthm, thmtools, amsfonts, mathtools, fancyhdr}
+
+\pagestyle{fancy}
 
 
-\usepackage{lipsum} % for generating dummy text
 
 
 \newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
@@ -15,18 +16,30 @@
 \author{Riddhiman}
 \date{\monthyeardate\today}
 
+\rhead{\includegraphics[width=1.25cm]{images/bits-logo-color}}
+\lhead{Assignment-I}
+
+\setlength\headheight{40pt} 
+
+
 \begin{document}
 
 \input{titlepage}
 
 % input contributions page
 
+\begin{center}
+    \section*{Contributions}%
+    
+\end{center}
+
+
+\newpage 
+
 \begin{multicols}{2}
 \section*{Interest}
 We are interested in “climate change and food security” due to the profound global implications of effects of a changing climate on agricultural systems and food production. We are specifically geared towards the far-reaching consequences for local communities and ecosystems. We wish to find sustainable solutions that can mitigate the adverse impacts of climate change on food security, customized to the economic and social situations of localities. Our interests are to address the looming crisis, promote resilience, and ensure equitable access to nourishment for future generations.
 
-
-\section*{Research focus area}
 
 \section*{Research problem}
 The cited materials suggest that food security, availability, and climate change are interlinked. We also gather food security encompasses the utilization and adequacy of food, estimating the deficiency in food available to a particular sample population and larger group. \\ \\ 

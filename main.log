@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  29 SEP 2023 02:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.17)  29 SEP 2023 18:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,48 +345,50 @@ LaTeX Info: Redefining \] on input line 2939.
 \l_MT_below_shortintertext_sep=\dimen183
 \xmathstrut@box=\box97
 \xmathstrut@dim=\dimen184
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
- (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
 \l__pdf_internal_box=\box98
-))
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count322
-\l__lipsum_a_int=\count323
-\l__lipsum_b_int=\count324
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./main.aux)
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
+\scratchcounter=\count322
 \scratchdimen=\dimen185
 \scratchbox=\box99
-\nofMPsegments=\count326
-\nofMParguments=\count327
+\nofMPsegments=\count323
+\nofMParguments=\count324
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count328
+\MPscratchCnt=\count325
 \MPscratchDim=\dimen186
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -403,15 +405,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(65.55515pt, 433.62pt, 98.33273pt)
-* v-part:(T,H,B)=(48.93872pt, 722.7pt, 73.40813pt)
+* v-part:(T,H,B)=(77.84674pt, 650.43pt, 116.77011pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=433.62pt
-* \textheight=722.7pt
+* \textheight=650.43pt
 * \oddsidemargin=-6.71484pt
 * \evensidemargin=26.06274pt
-* \topmargin=-60.33127pt
-* \headheight=12.0pt
+* \topmargin=-31.42325pt
+* \headheight=40.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -446,54 +448,68 @@ Overfull \hbox (30.33148pt too wide) in paragraph at lines 25--40
  [][] 
  []
 
-<images/bits.png, id=1, 642.4pt x 642.4pt>
-File: images/bits.png Graphic file (type png)
-<use images/bits.png>
-Package pdftex.def Info: images/bits.png  used on input line 44.
+<images/bits-logo-color.png, id=1, 642.4pt x 642.4pt>
+File: images/bits-logo-color.png Graphic file (type png)
+<use images/bits-logo-color.png>
+Package pdftex.def Info: images/bits-logo-color.png  used on input line 44.
 (pdftex.def)             Requested size: 173.44534pt x 173.4405pt.
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/bits.png>])
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/bits-logo-color.png>])
+File: images/bits-logo-color.png Graphic file (type png)
+<use images/bits-logo-color.png>
+Package pdftex.def Info: images/bits-logo-color.png  used on input line 37.
+(pdftex.def)             Requested size: 35.56593pt x 35.56245pt.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
  []
 
-[2] (./main.bbl [3]) [4
+File: images/bits-logo-color.png Graphic file (type png)
+<use images/bits-logo-color.png>
+Package pdftex.def Info: images/bits-logo-color.png  used on input line 64.
+(pdftex.def)             Requested size: 35.56593pt x 35.56245pt.
+[3] (./main.bbl
+File: images/bits-logo-color.png Graphic file (type png)
+<use images/bits-logo-color.png>
+Package pdftex.def Info: images/bits-logo-color.png  used on input line 1.
+(pdftex.def)             Requested size: 35.56593pt x 35.56245pt.
+ [4]) [5
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 7802 strings out of 478268
- 135567 string characters out of 5846346
- 543420 words of memory out of 5000000
- 25880 multiletter control sequences out of 15000+600000
+ 7538 strings out of 478268
+ 127427 string characters out of 5846346
+ 451503 words of memory out of 5000000
+ 25625 multiletter control sequences out of 15000+600000
  476406 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,117p,1036b,297s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,15n,117p,1046b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (4 pages, 162955 bytes).
+Output written on main.pdf (5 pages, 176181 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
